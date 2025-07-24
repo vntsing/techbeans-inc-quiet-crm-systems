@@ -28,9 +28,7 @@ Each module is customizable, minimal, and designed for solo operators or small t
 📚 [docs/introduction.md](docs/introduction.md)  
 ⚙️ [docs/automation-examples.md](docs/automation-examples.md)  
 📊 [docs/revenue-dashboard.md](docs/revenue-dashboard.md)
-templates/notion-template-guide.md
-templates/quiet-crm-template-url.txt
-templates/bonus-assets.md
+
 
 ## Built By
 
